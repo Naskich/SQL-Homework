@@ -1,0 +1,7 @@
+Problem 7.	Advantages of Normalized Databases
+Perform a research (e.g. Google or Wikipedia) and find an information about the benefits of database 
+normalization. Write in a text file called "database-normalization.txt".
+Advantages of Normalized Databases
+-	Advantages of Normalized Databases -  Advantages of Normalized Databases are  - transaction 
+management, and associative queries. This type database do not allow error in repeat. If person 
+work with  Normalized Databases - don't mistake and repeat information in tables in database.

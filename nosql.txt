@@ -1,0 +1,11 @@
+Problem 12. What is a NoSQL Database?
+Perform a research (e.g. Google or Wikipedia) and provide an information about non-relational 
+databases (NoSQL)? Give a few examples of NoSQL databases. Write in a text file called "nosql.txt".
+NoSQL databases
+-	NoSQL database is non-relational database system and data save in JSON - element. NoSQL  
+database provides a mechanism for storage and retrieval of data that is modeled in means 
+other than the tabular relations used in relational databases. Web-companies which use 
+NoSQL database are - Facebook, Google, Amazon. Example for NoSQL database are -  
+Casandra, MongoDB, Redis . The main advantage of NoSQL database is work fast.In finance 
+area not use NoSQL database, because NoSQL database is not safety like RDBMS.
+

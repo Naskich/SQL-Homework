@@ -1,0 +1,54 @@
+Problem 2.	Which are the Main Functions Performed by a RDBMS?
+Perform a research (e.g. Google or Wikipedia) and provide an information 
+about the relational database management systems and their main 
+functions. Write in a text file called "rdbms-functions.txt". Use 
+English.
+RDBMS
+- RDBMS is abbreviation form Relational Database Management System 
+(servers). The most popular RDBMS are - Microsoft SQL Server, Oracle 
+Database, My SQL, IBM DB2, PostgreSQL, SQLite. Main features of RDBMS are 
+High Performance, Organization and management of data, data security, 
+easy support of data, Database mirroring. In top 3 of RDBMS are Microsoft 
+SQL Server, Oracle Database Server , My SQL Server.
+RDBMS
+Main  Function RDBMS
+- Oracle Database 
+Oracle works to efficiently manage its resource, a database of 
+information, among the multiple clients requesting and sending data in 
+the network. It is an excellent database server choice for client/server 
+computing. Functions of Oracle Database are - locking mechanisms, 
+scheduler, resource manager, table compression, data mining, Analytic 
+SQL, Self-managing database,  high security - but unfortunately very 
+expensive is database servers !
+
+- My SQL Server
+MySQL is an open source SQL database, which is developed by Swedish 
+company MySQL AB. MySQL is supporting many different platforms including 
+Microsoft Windows, the major Linux distributions, UNIX, and Mac OS X. 
+Functions of MySQL Database are - High Performance, High Availability, 
+Management Ease, Bitmap indexes, Scalability and Flexibility Run 
+anything, but main advantage si price - My SQL database is  Lowest Total 
+Cost of Ownership !
+
+- Microsoft SQL Server
+MS SQL Server is a Relational Database Management System developed by 
+Microsoft Inc. Its primary query languages are: T-SQL and ANSI SQL. 
+Functions of MS SQL server are - High Performance, High Availability, 
+Database mirroring, DDL triggers, Ranking functions, XML integration.
+
+DATABASE - RANKING
+
+1.		Oracle	Relational DBMS	
+2.		MySQL	Relational DBMS
+3.		Microsoft SQL Server	Relational DBMS	
+------------------------------------------------------	
+4.		MongoDB 	Document store	
+5.		PostgreSQL	Relational DBMS	
+6.		DB2	Relational DBMS	
+7.		Microsoft Access	Relational DBMS	
+8.		Cassandra 	Wide column store	
+9.		SQLite	Relational DBMS	
+10.		Redis 	Key-value store	
+------------------------------------------------------ 
+
+

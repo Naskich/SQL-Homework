@@ -1,0 +1,59 @@
+Homework: Database Systems Overview
+This document defines the homework assignments from the "Databases" Course @ Software University. Please 
+submit as homework a single zip / rar / 7z archive holding the solutions (source code) of all below described 
+problems.
+Problem 1.	What Database Models do You Know?
+Perform a research (e.g. in Google or Wikipedia) and provide an information about different type of database 
+models. Provide detailed information about one of the database models by your choice, different from the 
+relational model. Write in a text file called "database-models.txt". Use English.
+Problem 2.	Which are the Main Functions Performed by a RDBMS?
+Perform a research (e.g. Google or Wikipedia) and provide an information about the relational database 
+management systems and their main functions. Write in a text file called "rdbms-functions.txt". Use English.
+Problem 3.	Define What is "Table" in Database Terms
+Perform a research (e.g. Google or Wikipedia) and provide an information about database table. What is table? How 
+information is stored in tables? What is the difference between tables and relations? Write in a text file called 
+"table.txt".
+Problem 4.	Difference between a Primary and Foreign Key
+Perform a research (e.g. Google or Wikipedia) and provide an information about primary and foreign keys in the 
+RDBMS Systems. What is the primary key? Why do we need it? What is the foreign key? What is the purpose of 
+foreign keys? What is the difference between a primary and foreign key? Write in a text file called "difference-
+primary-foreign-key.txt".
+Problem 5.	Relationships between Tables in Relational Databases
+Perform a research (e.g. Google or Wikipedia) and provide an information about table relationships in relational 
+databases. Provide more information about every relationship type (one-to-many, many-to-many, many-to-one, 
+one-to-one, others). Write in a text file called "table-relationships.txt". 
+Problem 6.	Schema Normalization
+Perform a research (e.g. Google or Wikipedia) and provide an information about database schema normalization. 
+There is a lot of information about database normalization on the Web. Explain briefly the process of schema 
+normalization. Write in a text file called "database-normalization.txt".
+Problem 7.	Advantages of Normalized Databases
+Perform a research (e.g. Google or Wikipedia) and find an information about the benefits of database 
+normalization. Write in a text file called "database-normalization.txt".
+Problem 8.	Database Integrity Constraints
+Explain the database integrity constrains. What are the constraint types? When are they used? Provide definition 
+for all of them (primary key constraint, unique key constraint, foreign key constraint, others). Write in a text file 
+called "integrity-constraints.txt".
+Problem 9.	Pros and Cons of Using Indexes in a Database?
+Perform a research (e.g. Google or Wikipedia) and provide an information about database indexes. What is index? 
+What indexing methods exist? What is clustered index? What is B-Tree? What is column-store index? What is full-
+text search index? What is spatial index? What are the pros and cons of using indexes? Write in a text file called 
+"indexes.txt".
+Problem 10.	SQL Language
+Perform a research (e.g. Google or Wikipedia) and provide an information about the SQL language. What type of 
+language is SQL? What is its purpose? Provide an example with simple SQL query. Write in a text file called "sql.txt".
+Problem 11.	Transactions
+Perform a research (e.g. Google or Wikipedia) and provide a basic information about database transactions and 
+their application? What is ACID transaction? What is transaction log? Write in a text file called "transactions.txt".
+Problem 12.	What is a NoSQL Database?
+Perform a research (e.g. Google or Wikipedia) and provide an information about non-relational databases (NoSQL)? 
+Give a few examples of NoSQL databases. Write in a text file called "nosql.txt".
+Problem 13.	Install SQL Server *, MySQL and Oracle
+Try to install MS SQL Server. You can follow instructions from this video https://softuni.bg/trainings/1045/First-
+steps-with-Microsoft-SQL-Server. Try to create new user and login with this user. Try to create new database with 
+few tables. 
+Try the same with MySQL and Oracle XE.
+
+
+
+
+

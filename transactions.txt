@@ -1,0 +1,27 @@
+Problem 11. Transactions
+Perform a research (e.g. Google or Wikipedia) and provide a basic information about database 
+transactions and their application? What is ACID transaction? What is transaction log? Write in a text 
+file called "transactions.txt".
+ACID transaction
+-	In the context of databases, a single logical operation on the data is called a transaction. ACID is 
+a set of properties that guarantee the reliable processing of data through use of transactions. A 
+transaction is a unit of work performed within a database that consists of a sequence of 
+operations, which is treated in a coherent and reliable way independent of other transactions. 
+For many use cases and applications it is important that several operations can be grouped in 
+such a unit so that it's executed together.
+Database transactions
+-	Transactions in a database environment have two main purposes: 
+To provide accurate and reliable transactions that allow correct recovery from failures and 
+keeping the database consistent even in cases of hardware or software failures. To provide 
+isolation between programs accessing a database concurrently. If this isolation is not provided, 
+the program's outcome is possibly erroneous.
+Transaction log
+-	Every SQL Server database has a transaction log that records all transactions and the database 
+modifications made by each transaction. The transaction log must be truncated on a regular 
+basis to keep it from filling up. However, some factors can delay log truncation, so monitoring 
+log size is important. Some operations can be minimally logged to reduce their impact on 
+transaction log size.
+-	The transaction log is a critical component of the database and, if there is a system failure, the 
+transaction log might be required to bring your database back to a consistent state. The 
+transaction log should never be deleted or moved unless you fully understand the ramifications 
+of doing this.

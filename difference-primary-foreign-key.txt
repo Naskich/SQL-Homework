@@ -1,0 +1,19 @@
+Problem 4.Difference between a Primary and Foreign Key
+Perform a research (e.g. Google or Wikipedia) and provide an information about primary and foreign 
+keys in the RDBMS Systems. What is the primary key? Why do we need it? What is the foreign key? 
+What is the purpose of foreign keys? What is the difference between a primary and foreign key? Write 
+in a text file called "difference-primary-foreign-key.txt".
+
+Primary key
+-	Primary key is main index (uniquely identifies) each record in a database table.  This is main 
+tool for relation between two tables or more tables! He is prevents recurrence in database.  
+A primary key column cannot contain NULL values.
+Foreign key
+-	Foreign key is index ( identifies ) in the table for link for Primary key in another table. This is 
+way for relation.
+If not have Foreign key and Primary key We can't make relation between two tables and can't prevent 
+repeat of data.
+
+
+
+

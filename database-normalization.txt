@@ -1,0 +1,14 @@
+Problem 6.  Schema Normalization
+Perform a research (e.g. Google or Wikipedia) and provide an information about database schema 
+normalization. There is a lot of information about database normalization on the Web. Explain briefly 
+the process of schema normalization. Write in a text file called "database-normalization.txt".
+
+Database normalization
+-	Database normalization is the process of organizing the columns and tables of the relations to 
+minimize data redundancy. 
+Normalization 
+-	Normalization of database to know -  Prevent Duplicate data. This process can be possible with 
+intermediate table between two or more tables. 
+
+
+

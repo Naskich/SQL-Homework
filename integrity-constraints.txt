@@ -1,0 +1,20 @@
+Problem 8. Database Integrity Constraints
+Explain the database integrity constrains. What are the constraint types? When are they used? Provide 
+definition for all of them (primary key constraint, unique key constraint, foreign key constraint, others). 
+Write in a text file called "integrity-constraints.txt".
+Type of constrains
+-	Type of constrains are:  Database integrity constrains, Primary key constraint, foreign key 
+constraint.
+Database integrity constrains
+-	Database integrity constrains are rules which cannot to allow incorrectly fill in tables. They 
+are tool and objects for regulatory of filling in table in  database. 
+Primary key constraint
+-	The Primary constraint uniquely identifies each record in a database table. Primary keys 
+must contain  unique values.
+Foreign key constraint
+-	There are two foreign key integrity constraints: cascade update related fields and cascade 
+delete related rows. These constraints affect the referential integrity constraint.
+Unique key constraint
+-	The unique constraint uniquely identifies each record in a database table. The unique and 
+primary key constraints both provide a guarantee for uniqueness for a column or set of 
+columns. primary key constraint automatically has a UNIQUE constraint defined on it.

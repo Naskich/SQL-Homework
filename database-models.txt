@@ -1,0 +1,22 @@
+Problem 1. What Database Models do You Know?
+Perform a research (e.g. in Google or Wikipedia) and provide an 
+information about different type of database models. Provide detailed 
+information about one of the database models by your choice, different 
+from the relational model. Write in a text file called "database-
+models.txt". Use English.
+
+Today in the world use different type database models. The database 
+models are data logical models for database include - Network Model, 
+Relational model, Object Model, Document Model, Hierarchical Model, Star 
+Shema, Entry relational Model.  In practice most use Relational model, 
+which has relationships between tables. 
+Network Model 
+- Network model is flexible model for presentation of the database. He is 
+adds Hierarchical Mode, which has tree structure of presentation and 
+records database, but main different form Hierarchical Mode is Graph 
+structure in Network model. A graph data structure consists of a finite  
+set of vertices or nodes or point. While the hierarchical database model 
+structures data as a tree of records, with each record having one parent 
+record and many children, the network model allows each record to have 
+multiple parent and child records, forming a generalized graph structure. 
+Network model was created form Charles Bachman in USA .  

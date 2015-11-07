@@ -1,0 +1,16 @@
+Problem 3 . Define What is "Table" in Database Terms
+Perform a research (e.g. Google or Wikipedia) and provide an information about database table. What is 
+table? How information is stored in tables? What is the difference between tables and relations? Write 
+in a text file called "table.txt".
+Tables
+Tables are main tool for organize, management and storage of data. The table consists of columns and 
+rows. 
+Relations 
+They created a link between objects in one database. 
+Main difference tables and relations
+In modern World Database can storage information in tables are objects between which created links - 
+these links call relations. Relations working with primary key in the main columns in tables.
+
+
+
+
